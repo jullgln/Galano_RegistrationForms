@@ -98,107 +98,167 @@ namespace Galano_Activity
             //panel color change
             if (studtypecbx1.SelectedIndex == 1)
             {
+                this.BackColor = ColorTranslator.FromHtml("#fcfce3");
                 summarypanel.BackColor = ColorTranslator.FromHtml("#fcfce3");
             }
             if (studtypecbx1.SelectedIndex == 2)
             {
+                this.BackColor = ColorTranslator.FromHtml("#defaf8");
                 summarypanel.BackColor = ColorTranslator.FromHtml("#defaf8");
             }
             if (studtypecbx1.SelectedIndex == 3)
             {
+                this.BackColor = ColorTranslator.FromHtml("#fae4dc");
                 summarypanel.BackColor = ColorTranslator.FromHtml("#fae4dc");
             }
             if (studtypecbx1.SelectedIndex == 4)
             {
+                this.BackColor = ColorTranslator.FromHtml("#ffe8f5");
                 summarypanel.BackColor = ColorTranslator.FromHtml("#ffe8f5");
             }
             if (studtypecbx1.SelectedIndex == 5)
             {
+                this.BackColor = ColorTranslator.FromHtml("#ebdcfc");
                 summarypanel.BackColor = ColorTranslator.FromHtml("#ebdcfc");
             }
 
             //text color change
             if (yrlvlcbx1.SelectedIndex == 1)
             {
+                namelbl.ForeColor = ColorTranslator.FromHtml("#a61403");
                 namelbl2.ForeColor = ColorTranslator.FromHtml("#a61403");
+                snlbl.ForeColor = ColorTranslator.FromHtml("#a61403");
                 snlbl2.ForeColor = ColorTranslator.FromHtml("#a61403");
+                schoollbl.ForeColor = ColorTranslator.FromHtml("#a61403");
                 schoollbl2.ForeColor = ColorTranslator.FromHtml("#a61403");
+                seminarlbl.ForeColor = ColorTranslator.FromHtml("#a61403");
                 seminarlbl2.ForeColor = ColorTranslator.FromHtml("#a61403");
+                speakerlbl.ForeColor = ColorTranslator.FromHtml("#a61403");
                 speakerlbl2.ForeColor = ColorTranslator.FromHtml("#a61403");
+                dtlbl.ForeColor = ColorTranslator.FromHtml("#a61403");
                 dtlbl2.ForeColor = ColorTranslator.FromHtml("#a61403");
+                placelbl.ForeColor = ColorTranslator.FromHtml("#a61403");
                 placelbl2.ForeColor = ColorTranslator.FromHtml("#a61403");
                 totallbl2.ForeColor = ColorTranslator.FromHtml("#a61403");
+                genderlbl.ForeColor = ColorTranslator.FromHtml("#a61403");
                 genderlbl2.ForeColor = ColorTranslator.FromHtml("#a61403");
+                yrlvllbl.ForeColor = ColorTranslator.FromHtml("#a61403");
                 yrlvllbl2.ForeColor = ColorTranslator.FromHtml("#a61403");
+                studtypelbl.ForeColor = ColorTranslator.FromHtml("#a61403");
                 studtypelbl2.ForeColor = ColorTranslator.FromHtml("#a61403");
+                regclasslbl.ForeColor = ColorTranslator.FromHtml("#a61403");
                 regclasslbl2.ForeColor = ColorTranslator.FromHtml("#a61403");
                 paymentlbl.ForeColor = ColorTranslator.FromHtml("#a61403");
                 changelbl.ForeColor = ColorTranslator.FromHtml("#a61403");
             }
             if (yrlvlcbx1.SelectedIndex == 2)
             {
+                namelbl.ForeColor = ColorTranslator.FromHtml("#8ba603");
                 namelbl2.ForeColor = ColorTranslator.FromHtml("#8ba603");
+                snlbl.ForeColor = ColorTranslator.FromHtml("#8ba603");
                 snlbl2.ForeColor = ColorTranslator.FromHtml("#8ba603");
+                schoollbl.ForeColor = ColorTranslator.FromHtml("#8ba603");
                 schoollbl2.ForeColor = ColorTranslator.FromHtml("#8ba603");
+                seminarlbl.ForeColor = ColorTranslator.FromHtml("#8ba603");
                 seminarlbl2.ForeColor = ColorTranslator.FromHtml("#8ba603");
+                speakerlbl.ForeColor = ColorTranslator.FromHtml("#8ba603");
                 speakerlbl2.ForeColor = ColorTranslator.FromHtml("#8ba603");
+                dtlbl.ForeColor = ColorTranslator.FromHtml("#8ba603");
                 dtlbl2.ForeColor = ColorTranslator.FromHtml("#8ba603");
+                placelbl.ForeColor = ColorTranslator.FromHtml("#8ba603");
                 placelbl2.ForeColor = ColorTranslator.FromHtml("#8ba603");
                 totallbl2.ForeColor = ColorTranslator.FromHtml("#8ba603");
+                genderlbl.ForeColor = ColorTranslator.FromHtml("#8ba603");
                 genderlbl2.ForeColor = ColorTranslator.FromHtml("#8ba603");
+                yrlvllbl.ForeColor = ColorTranslator.FromHtml("#8ba603");
                 yrlvllbl2.ForeColor = ColorTranslator.FromHtml("#8ba603");
+                studtypelbl.ForeColor = ColorTranslator.FromHtml("#8ba603");
                 studtypelbl2.ForeColor = ColorTranslator.FromHtml("#8ba603");
+                regclasslbl.ForeColor = ColorTranslator.FromHtml("#8ba603");
                 regclasslbl2.ForeColor = ColorTranslator.FromHtml("#8ba603");
                 paymentlbl.ForeColor = ColorTranslator.FromHtml("#8ba603");
                 changelbl.ForeColor = ColorTranslator.FromHtml("#8ba603");
             }
             if (yrlvlcbx1.SelectedIndex == 3)
             {
+                namelbl.ForeColor = ColorTranslator.FromHtml("#032ca6");
                 namelbl2.ForeColor = ColorTranslator.FromHtml("#032ca6");
+                snlbl.ForeColor = ColorTranslator.FromHtml("#032ca6");
                 snlbl2.ForeColor = ColorTranslator.FromHtml("#032ca6");
+                schoollbl.ForeColor = ColorTranslator.FromHtml("#032ca6");
                 schoollbl2.ForeColor = ColorTranslator.FromHtml("#032ca6");
+                seminarlbl.ForeColor = ColorTranslator.FromHtml("#032ca6");
                 seminarlbl2.ForeColor = ColorTranslator.FromHtml("#032ca6");
+                speakerlbl.ForeColor = ColorTranslator.FromHtml("#032ca6");
                 speakerlbl2.ForeColor = ColorTranslator.FromHtml("#032ca6");
+                dtlbl.ForeColor = ColorTranslator.FromHtml("#032ca6");
                 dtlbl2.ForeColor = ColorTranslator.FromHtml("#032ca6");
+                placelbl.ForeColor = ColorTranslator.FromHtml("#032ca6");
                 placelbl2.ForeColor = ColorTranslator.FromHtml("#032ca6");
                 totallbl2.ForeColor = ColorTranslator.FromHtml("#032ca6");
+                genderlbl.ForeColor = ColorTranslator.FromHtml("#032ca6");
                 genderlbl2.ForeColor = ColorTranslator.FromHtml("#032ca6");
+                yrlvllbl.ForeColor = ColorTranslator.FromHtml("#032ca6");
                 yrlvllbl2.ForeColor = ColorTranslator.FromHtml("#032ca6");
+                studtypelbl.ForeColor = ColorTranslator.FromHtml("#032ca6");
                 studtypelbl2.ForeColor = ColorTranslator.FromHtml("#032ca6");
+                regclasslbl.ForeColor = ColorTranslator.FromHtml("#032ca6");
                 regclasslbl2.ForeColor = ColorTranslator.FromHtml("#032ca6");
                 paymentlbl.ForeColor = ColorTranslator.FromHtml("#032ca6");
                 changelbl.ForeColor = ColorTranslator.FromHtml("#032ca6");
             }
             if (yrlvlcbx1.SelectedIndex == 4)
             {
+                namelbl.ForeColor = ColorTranslator.FromHtml("#037da6");
                 namelbl2.ForeColor = ColorTranslator.FromHtml("#037da6");
+                snlbl.ForeColor = ColorTranslator.FromHtml("#037da6");
                 snlbl2.ForeColor = ColorTranslator.FromHtml("#037da6");
+                schoollbl.ForeColor = ColorTranslator.FromHtml("#037da6");
                 schoollbl2.ForeColor = ColorTranslator.FromHtml("#037da6");
+                seminarlbl.ForeColor = ColorTranslator.FromHtml("#037da6");
                 seminarlbl2.ForeColor = ColorTranslator.FromHtml("#037da6");
+                speakerlbl.ForeColor = ColorTranslator.FromHtml("#037da6");
                 speakerlbl2.ForeColor = ColorTranslator.FromHtml("#037da6");
+                dtlbl.ForeColor = ColorTranslator.FromHtml("#037da6");
                 dtlbl2.ForeColor = ColorTranslator.FromHtml("#037da6");
+                placelbl.ForeColor = ColorTranslator.FromHtml("#037da6");
                 placelbl2.ForeColor = ColorTranslator.FromHtml("#037da6");
                 totallbl2.ForeColor = ColorTranslator.FromHtml("#037da6");
+                genderlbl.ForeColor = ColorTranslator.FromHtml("#037da6");
                 genderlbl2.ForeColor = ColorTranslator.FromHtml("#037da6");
+                yrlvllbl.ForeColor = ColorTranslator.FromHtml("#037da6");
                 yrlvllbl2.ForeColor = ColorTranslator.FromHtml("#037da6");
+                studtypelbl.ForeColor = ColorTranslator.FromHtml("#037da6");
                 studtypelbl2.ForeColor = ColorTranslator.FromHtml("#037da6");
+                regclasslbl.ForeColor = ColorTranslator.FromHtml("#037da6");
                 regclasslbl2.ForeColor = ColorTranslator.FromHtml("#037da6");
                 paymentlbl.ForeColor = ColorTranslator.FromHtml("#037da6");
                 changelbl.ForeColor = ColorTranslator.FromHtml("#037da6");
             }
             if (yrlvlcbx1.SelectedIndex == 5)
             {
+                namelbl.ForeColor = ColorTranslator.FromHtml("#8f5b01");
                 namelbl2.ForeColor = ColorTranslator.FromHtml("#8f5b01");
+                snlbl.ForeColor = ColorTranslator.FromHtml("#8f5b01");
                 snlbl2.ForeColor = ColorTranslator.FromHtml("#8f5b01");
+                schoollbl.ForeColor = ColorTranslator.FromHtml("#8f5b01");
                 schoollbl2.ForeColor = ColorTranslator.FromHtml("#8f5b01");
+                seminarlbl.ForeColor = ColorTranslator.FromHtml("#8f5b01");
                 seminarlbl2.ForeColor = ColorTranslator.FromHtml("#8f5b01");
+                speakerlbl.ForeColor = ColorTranslator.FromHtml("#8f5b01");
                 speakerlbl2.ForeColor = ColorTranslator.FromHtml("#8f5b01");
+                dtlbl.ForeColor = ColorTranslator.FromHtml("#8f5b01");
                 dtlbl2.ForeColor = ColorTranslator.FromHtml("#8f5b01");
+                placelbl.ForeColor = ColorTranslator.FromHtml("#8f5b01");
                 placelbl2.ForeColor = ColorTranslator.FromHtml("#8f5b01");
                 totallbl2.ForeColor = ColorTranslator.FromHtml("#8f5b01");
+                genderlbl.ForeColor = ColorTranslator.FromHtml("#8f5b01");
                 genderlbl2.ForeColor = ColorTranslator.FromHtml("#8f5b01");
+                yrlvllbl.ForeColor = ColorTranslator.FromHtml("#8f5b01");
                 yrlvllbl2.ForeColor = ColorTranslator.FromHtml("#8f5b01");
+                studtypelbl.ForeColor = ColorTranslator.FromHtml("#8f5b01");
                 studtypelbl2.ForeColor = ColorTranslator.FromHtml("#8f5b01");
+                regclasslbl.ForeColor = ColorTranslator.FromHtml("#8f5b01");
                 regclasslbl2.ForeColor = ColorTranslator.FromHtml("#8f5b01");
                 paymentlbl.ForeColor = ColorTranslator.FromHtml("#8f5b01");
                 changelbl.ForeColor = ColorTranslator.FromHtml("#8f5b01");
