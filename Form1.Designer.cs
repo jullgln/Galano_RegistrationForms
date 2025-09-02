@@ -112,7 +112,7 @@
             titlelbl1.FlatStyle = FlatStyle.Popup;
             titlelbl1.Font = new Font("Corbel", 36F, FontStyle.Bold, GraphicsUnit.Point, 0);
             titlelbl1.ForeColor = Color.WhiteSmoke;
-            titlelbl1.Location = new Point(388, 17);
+            titlelbl1.Location = new Point(327, 9);
             titlelbl1.Margin = new Padding(13, 0, 13, 0);
             titlelbl1.Name = "titlelbl1";
             titlelbl1.Size = new Size(586, 59);
@@ -140,7 +140,7 @@
             pictureBox1.BackgroundImage = (Image)resources.GetObject("pictureBox1.BackgroundImage");
             pictureBox1.BackgroundImageLayout = ImageLayout.Zoom;
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(311, 4);
+            pictureBox1.Location = new Point(251, 5);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(75, 66);
             pictureBox1.TabIndex = 4;
@@ -151,7 +151,7 @@
             panel4.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             panel4.BackColor = Color.LightGray;
             panel4.Controls.Add(panel2);
-            panel4.Location = new Point(0, 76);
+            panel4.Location = new Point(-2, 76);
             panel4.Margin = new Padding(3, 2, 3, 2);
             panel4.Name = "panel4";
             panel4.Size = new Size(1152, 9);

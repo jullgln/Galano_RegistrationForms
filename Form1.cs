@@ -479,6 +479,10 @@ namespace Galano_Activity
             {
                 othertxtbx.Visible = true;
             }
+            else
+            {
+                othertxtbx.Visible = false;
+            }
         }
     }
 }
